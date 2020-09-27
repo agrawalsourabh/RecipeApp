@@ -1,0 +1,23 @@
+.search{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 40%;
+	display: flex;
+	justify-content: center;
+}
+
+.search .search-input{
+	flex-basis: 80%;
+	padding: 20px 15px;
+}
+
+.search .submit-btn{
+	flex-basis: 20%;
+	padding: 20px 15px;
+	color: white;
+	margin-left: 5px;
+}
+
+.submit-btn : hover{
+	cursor: mouse;
+}

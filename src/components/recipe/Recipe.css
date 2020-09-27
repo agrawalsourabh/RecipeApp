@@ -1,0 +1,28 @@
+.recipe{
+	margin: 20px;
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+	flex-wrap: wrap;
+	background-color: white;
+}
+
+.recipe .food-image{
+	width: 100%;
+	display: block;
+}
+
+.recipe .title{
+	margin: 10px;
+}
+
+.recipe .ingredients{
+	margin: 10px;
+}
+
+li{
+	margin: 10px;
+	font-size: 13px;
+	line-height: 1.6;
+}
